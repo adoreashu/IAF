@@ -1,16 +1,43 @@
-# React + Vite
+# Ashutosh Kumar - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Live Demo: [https://adoreashu.github.io/IAF](https://adoreashu.github.io/IAF)
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio website, designed to showcase my skills, projects, education, and interests as a B.Tech Information Technology student and aspiring software developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About Me
+I'm a B.Tech IT student with a strong interest in software development, Java, data structures & algorithms, web development, and AI/ML. I focus on building practical projects, writing clean code, and solving real-world problems through continuous learning.
 
-## React Compiler
+## Tech Stack
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Build Tool**: Vite
+- **Styling**: Custom CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Featured Project
+**Brain Tumor Detection System**
+A machine-learning-based system for detecting brain tumors from medical brain images using image processing and machine learning techniques. Built with Python, Machine Learning, and Image Processing.
 
-## Expanding the Oxlint configuration
+## Run Locally
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+To run this project on your own machine:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/adoreashu/IAF.git
+   ```
+2. **Navigate to the directory**
+   ```bash
+   cd IAF
+   ```
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+## Let's Connect
+- **Email**: singhshahilpratap@gmail.com
+- **GitHub**: [@adoreashu](https://github.com/adoreashu)
+- **LinkedIn**: [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar-155416295)
