@@ -117,11 +117,11 @@ export const portfolioData = {
     heading: "Let's Connect",
     description:
       "Open to internships, collaborations, hackathons, and learning opportunities.",
-    email: 'singhshahilpratap@gmail.com',
-    phone: '7644092879',
+    email: 's***********p****@gmail.com',
+    phone: '7644*****',
     github: 'https://github.com/adoreashu',
     linkedin: 'www.linkedin.com/in/ashutosh-kumar-155416295',
-    resume: '[ADD RESUME LINK]',
+    resume: '[ RESUME LINK]',
   },
 
   footer: {
