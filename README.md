@@ -1,6 +1,6 @@
 # Ashutosh Kumar - Personal Portfolio
 
-Live Demo: [https://adoreashu.github.io/IAF](https://adoreashu.github.io/IAF)
+Live Demo: Published Soon bcz abhi kaam chal rha hh
 
 Welcome to my personal portfolio website, designed to showcase my skills, projects, education, and interests as a B.Tech Information Technology student and aspiring software developer.
 
